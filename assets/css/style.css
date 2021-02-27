@@ -515,7 +515,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-get-started:hover {
-  background: #247cf0;
+  background: var(--ss-orange-hover);
 }
 
 #hero .btn-watch-video {
@@ -746,7 +746,8 @@ section {
   margin-bottom: 0;
 }
 
-.featured-services .icon-box:hover .title a, .featured-services .icon-box:hover .description {
+.featured-services .icon-box:hover .title a, .featured-services .icon-box:hover .description,
+.featured-services .icon-box:hover p {
   color: #fff;
 }
 
@@ -1709,6 +1710,10 @@ section {
 
 #footer .footer-top .footer-contact {
   margin-bottom: 30px;
+}
+#footer .footer-top .footer-contact .logo {
+  width: 40px;
+  height: 40px;
 }
 
 #footer .footer-top .footer-contact h3 {
