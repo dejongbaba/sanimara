@@ -1,11 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="736a325c-8abe-4658-988b-af6e7aec957b" name="Default Changelist" comment="" />
+    <list default="true" id="736a325c-8abe-4658-988b-af6e7aec957b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/favicon/android-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon/android-icon-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon/android-icon-36x36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon/android-icon-48x48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon/android-icon-72x72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon/android-icon-96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon/apple-icon-114x114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon/apple-icon-120x120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon/apple-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon/apple-icon-152x152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon/apple-icon-180x180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon/apple-icon-57x57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon/apple-icon-60x60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon/apple-icon-72x72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon/apple-icon-76x76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon/apple-icon-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon/apple-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon/favicon-96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon/ms-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon/ms-icon-150x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon/ms-icon-310x310.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon/ms-icon-70x70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1p2Y5aTJwjjVlOVy6gnCs6iNBTU" />
   <component name="ProjectViewState">
@@ -16,7 +71,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img" />
+      <recent name="$PROJECT_DIR$/assets/favicon" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -26,11 +91,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614382474108</updated>
-      <workItem from="1614382478252" duration="2432000" />
+      <workItem from="1614382478252" duration="2897000" />
+      <workItem from="1614440454274" duration="2533000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1614442659837">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1614442659837" />
   </component>
 </project>
